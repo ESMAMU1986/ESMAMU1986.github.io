@@ -1,3 +1,29 @@
-body{
-    color: red;
+h2{
+    color: gray;
+    Font-size: 70px;
+    text-align: center;
 }
+
+.site-portfolio{
+    background: #A5BBC8;
+}
+
+
+ul:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  li {
+    float: left;
+  }
+  
+.mb-0{
+    color: gray;
+    font-size: 35px;
+    text-align: center;
+}
+span{
+    color: Gold;
+}
+
